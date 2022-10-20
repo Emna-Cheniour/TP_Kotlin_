@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PizzaApp</string>
+    <string name="shr_app_name">We do PIZZA right</string>
+    <string name="shr_hint_nom">Nom</string>
+    <string name="shr_hint_prenom">Prenom</string>
+    <string name="shr_hint_adresse">Adresse</string>
+    <string name="shr_button_next">Confirmer</string>
+    <string name="shr_button_cancel">Annuler</string>
+</resources>
